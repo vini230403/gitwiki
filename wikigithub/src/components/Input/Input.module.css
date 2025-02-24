@@ -1,0 +1,25 @@
+.container_input {
+    border: 1px solid #fafafa;
+    border-radius: 20px;
+
+    height: 62px;
+    width: 80%;
+    
+    margin: 20px;
+
+
+    input {
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 20px;
+      width: 97.4%;
+      padding: 0 20px;
+      height: 62px;
+      font-size: 18px;
+      color: #FFFFFF;
+      outline: none;
+  }
+}
+
+
+
