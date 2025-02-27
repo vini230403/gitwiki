@@ -8,3 +8,9 @@ Para inicializá-lo, siga os comandos:
 npm install
 
 npm run dev
+
+Para utilizar sua função, pesquise pelo nome de usúario do GitHub e o nome do repositório.
+
+Desta forma:
+
+"vini230403/gitwiki"
